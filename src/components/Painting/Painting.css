@@ -1,0 +1,11 @@
+.painting-details{
+  padding: 20px;
+  display:flex;
+  
+}
+.painting-details div {
+    width:50%;
+    height: auto;
+  
+  }
+  
