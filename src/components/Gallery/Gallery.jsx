@@ -13,7 +13,7 @@ const paintings = [
       name: "Vincent Van Gogh",
     },
     images: {
-      thumbnail: "../../../public/assets/starry-night/thumbnail.jpg",
+      thumbnail: "/assets/starry-night/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/starry-night/hero-small.jpg",
         large: "../../../public/assets/starry-night/hero-large.jpg",
@@ -33,7 +33,7 @@ const paintings = [
       name: "Johannes Vermeer",
     },
     images: {
-      thumbnail: "../../../public/assets/girl-with-pearl-earring/thumbnail.jpg",
+      thumbnail: "/assets/girl-with-pearl-earring/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/girl-with-pearl-earring/hero-small.jpg",
         large: "../../../public/assets/girl-with-pearl-earring/hero-large.jpg",
@@ -53,7 +53,7 @@ const paintings = [
       name: "Pablo Picasso",
     },
     images: {
-      thumbnail: "../../../public/assets/guernica/thumbnail.jpg",
+      thumbnail: "/assets/guernica/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/guernica/hero-small.jpg",
         large: "../../../public/assets/guernica/hero-large.jpg",
@@ -74,7 +74,7 @@ const paintings = [
       name: "Artemisia Gentileschi",
     },
     images: {
-      thumbnail: "../../../public/assets/penitent-magdalene/thumbnail.jpg",
+      thumbnail: "/assets/penitent-magdalene/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/penitent-magdalene/hero-small.jpg",
         large: "../../../public/assets/penitent-magdalene/hero-large.jpg",
@@ -94,7 +94,7 @@ const paintings = [
       name: "Rembrandt",
     },
     images: {
-      thumbnail: "../../../public/assets/the-storm-on-the-sea-of-galilee/thumbnail.jpg",
+      thumbnail: "/assets/the-storm-on-the-sea-of-galilee/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/the-storm-on-the-sea-of-galilee/hero-small.jpg",
         large: "../../../public/assets/the-storm-on-the-sea-of-galilee/hero-large.jpg",
@@ -114,7 +114,7 @@ const paintings = [
       name: "Hokusai",
     },
     images: {
-      thumbnail: "../../../public/assets/the-great-wave-off-kanagawa/thumbnail.jpg",
+      thumbnail: "/assets/the-great-wave-off-kanagawa/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/the-great-wave-off-kanagawa/hero-small.jpg",
         large: "../../../public/assets/the-great-wave-off-kanagawa/hero-large.jpg",
@@ -134,7 +134,7 @@ const paintings = [
       name: "Vincent Van Gogh",
     },
     images: {
-      thumbnail: "../../../public/assets/van-gogh-self-portrait/thumbnail.jpg",
+      thumbnail: "/assets/van-gogh-self-portrait/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/van-gogh-self-portrait/hero-small.jpg",
         large: "../../../public/assets/van-gogh-self-portrait/hero-large.jpg",
@@ -154,7 +154,7 @@ const paintings = [
       name: "Henri Rousseau",
     },
     images: {
-      thumbnail: "../../../public/assets/the-sleeping-gypsy/thumbnail.jpg",
+      thumbnail: "/assets/the-sleeping-gypsy/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/the-sleeping-gypsy/hero-small.jpg",
         large: "../../../public/assets/the-sleeping-gypsy/hero-large.jpg",
@@ -174,7 +174,7 @@ const paintings = [
       name: "Leonardo da Vinci",
     },
     images: {
-      thumbnail: "../../../public/assets/lady-with-an-ermine/thumbnail.jpg",
+      thumbnail: "/assets/lady-with-an-ermine/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/lady-with-an-ermine/hero-small.jpg",
         large: "../../../public/assets/lady-with-an-ermine/hero-large.jpg",
@@ -194,7 +194,7 @@ const paintings = [
       name: "Vincent Van Gogh",
     },
     images: {
-      thumbnail: "../../../public/assets/the-night-cafe/thumbnail.jpg",
+      thumbnail: "/assets/the-night-cafe/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/the-night-cafe/hero-small.jpg",
         large: "../../../public/assets/the-night-cafe/hero-large.jpg",
@@ -214,7 +214,7 @@ const paintings = [
       name: "Paul Cézanne",
     },
     images: {
-      thumbnail: "../../../public/assets/the-basket-of-apples/thumbnail.jpg",
+      thumbnail: "/assets/the-basket-of-apples/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/the-basket-of-apples/hero-small.jpg",
         large: "../../../public/assets/the-basket-of-apples/hero-large.jpg",
@@ -234,7 +234,7 @@ const paintings = [
       name: "Paul Cézanne",
     },
     images: {
-      thumbnail: "../../../public/assets/the-boy-in-the-red-vest/thumbnail.jpg",
+      thumbnail: "/assets/the-boy-in-the-red-vest/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/the-boy-in-the-red-vest/hero-small.jpg",
         large: "../../../public/assets/the-boy-in-the-red-vest/hero-large.jpg",
@@ -254,7 +254,7 @@ const paintings = [
       name: "Jan van Eyck",
     },
     images: {
-      thumbnail: "../../../public/assets/arnolfini-portrait/thumbnail.jpg",
+      thumbnail: "/assets/arnolfini-portrait/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/arnolfini-portrait/hero-small.jpg",
         large: "../../../public/assets/arnolfini-portrait/hero-large.jpg",
@@ -274,7 +274,7 @@ const paintings = [
       name: "Leonardo da Vinci",
     },
     images: {
-      thumbnail: "../../../public/assets/mona-lisa/thumbnail.jpg",
+      thumbnail: "/assets/mona-lisa/thumbnail.jpg",
       hero: {
         small: "../../../public/assets/mona-lisa/hero-small.jpg",
         large: "../../../public/assets/mona-lisa/hero-large.jpg",
@@ -290,7 +290,7 @@ const paintings = [
       "The painting depicts an elegant young woman on a swing. A smiling young man, hiding in the bushes on the left, watches her from a vantage point that allows him to see up into her billowing dress, where his arm is pointed with hat in hand. A smiling older man, who is nearly hidden in the shadows on the right, propels the swing with a pair of ropes. The older man appears to be unaware of the young man. As the young lady swings high, she throws her left leg up, allowing her dainty shoe to fly through the air.",
     source: "https://en.wikipedia.org/wiki/The_Swing_(Fragonard)",
     artist: {
-      image: "../../../puplic/assets/the-swing/artist.jpg",
+      image: "/assets/the-swing/artist.jpg",
       name: "Jean-Honoré Fragonard",
     },
     images: {

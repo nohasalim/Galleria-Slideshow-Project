@@ -16,7 +16,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/starry-night/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/starry-night/hero-small.jpg",
+        small: "/assets/starry-night/hero-small.jpg",
         large: "../../../public/assets/starry-night/hero-large.jpg",
       },
       gallery: "../../../public/assets/starry-night/gallery.jpg",
@@ -36,7 +36,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/girl-with-pearl-earring/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/girl-with-pearl-earring/hero-small.jpg",
+        small: "/assets/girl-with-pearl-earring/hero-small.jpg",
         large: "../../../public/assets/girl-with-pearl-earring/hero-large.jpg",
       },
       gallery: "../../../public/assets/girl-with-pearl-earring/gallery.jpg",
@@ -56,7 +56,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/guernica/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/guernica/hero-small.jpg",
+        small: "/assets/guernica/hero-small.jpg",
         large: "../../../public/assets/guernica/hero-large.jpg",
       },
       gallery: "../../../public/assets/guernica/gallery.jpg",
@@ -77,7 +77,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/penitent-magdalene/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/penitent-magdalene/hero-small.jpg",
+        small: "/assets/penitent-magdalene/hero-small.jpg",
         large: "../../../public/assets/penitent-magdalene/hero-large.jpg",
       },
       gallery: "../../../public/assets/penitent-magdalene/gallery.jpg",
@@ -97,7 +97,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/the-storm-on-the-sea-of-galilee/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/the-storm-on-the-sea-of-galilee/hero-small.jpg",
+        small: "/assets/the-storm-on-the-sea-of-galilee/hero-small.jpg",
         large: "../../../public/assets/the-storm-on-the-sea-of-galilee/hero-large.jpg",
       },
       gallery: "../../../public/assets/the-storm-on-the-sea-of-galilee/gallery.jpg",
@@ -117,7 +117,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/the-great-wave-off-kanagawa/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/the-great-wave-off-kanagawa/hero-small.jpg",
+        small: "/assets/the-great-wave-off-kanagawa/hero-small.jpg",
         large: "../../../public/assets/the-great-wave-off-kanagawa/hero-large.jpg",
       },
       gallery: "../../../public/assets/the-great-wave-off-kanagawa/gallery.jpg",
@@ -137,7 +137,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/van-gogh-self-portrait/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/van-gogh-self-portrait/hero-small.jpg",
+        small: "/assets/van-gogh-self-portrait/hero-small.jpg",
         large: "../../../public/assets/van-gogh-self-portrait/hero-large.jpg",
       },
       gallery: "../../../public/assets/van-gogh-self-portrait/gallery.jpg",
@@ -157,7 +157,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/the-sleeping-gypsy/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/the-sleeping-gypsy/hero-small.jpg",
+        small: "/assets/the-sleeping-gypsy/hero-small.jpg",
         large: "../../../public/assets/the-sleeping-gypsy/hero-large.jpg",
       },
       gallery: "../../../public/assets/the-sleeping-gypsy/gallery.jpg",
@@ -177,7 +177,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/lady-with-an-ermine/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/lady-with-an-ermine/hero-small.jpg",
+        small: "/assets/lady-with-an-ermine/hero-small.jpg",
         large: "../../../public/assets/lady-with-an-ermine/hero-large.jpg",
       },
       gallery: "../../../public/assets/lady-with-an-ermine/gallery.jpg",
@@ -197,7 +197,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/the-night-cafe/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/the-night-cafe/hero-small.jpg",
+        small: "/assets/the-night-cafe/hero-small.jpg",
         large: "../../../public/assets/the-night-cafe/hero-large.jpg",
       },
       gallery: "../../../public/assets/the-night-cafe/gallery.jpg",
@@ -217,7 +217,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/the-basket-of-apples/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/the-basket-of-apples/hero-small.jpg",
+        small: "/assets/the-basket-of-apples/hero-small.jpg",
         large: "../../../public/assets/the-basket-of-apples/hero-large.jpg",
       },
       gallery: "../../../public/assets/the-basket-of-apples/gallery.jpg",
@@ -237,7 +237,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/the-boy-in-the-red-vest/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/the-boy-in-the-red-vest/hero-small.jpg",
+        small: "/assets/the-boy-in-the-red-vest/hero-small.jpg",
         large: "../../../public/assets/the-boy-in-the-red-vest/hero-large.jpg",
       },
       gallery: "../../../public/assets/the-boy-in-the-red-vest/gallery.jpg",
@@ -257,7 +257,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/arnolfini-portrait/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/arnolfini-portrait/hero-small.jpg",
+        small: "/assets/arnolfini-portrait/hero-small.jpg",
         large: "../../../public/assets/arnolfini-portrait/hero-large.jpg",
       },
       gallery: "../../../public/assets/arnolfini-portrait/gallery.jpg",
@@ -277,7 +277,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/mona-lisa/thumbnail.jpg",
       hero: {
-        small: "../../../public/assets/mona-lisa/hero-small.jpg",
+        small: "/assets/mona-lisa/hero-small.jpg",
         large: "../../../public/assets/mona-lisa/hero-large.jpg",
       },
       gallery: "../../../public/assets/mona-lisa/gallery.jpg",
@@ -297,7 +297,7 @@ const paintings = [
     images: {
       thumbnail: "../../../public/assets/the-swing/thumbnail.jpg",
       hero: {
-        small: "../../../puplic/assets/the-swing/hero-small.jpg",
+        small: "/assets/the-swing/hero-small.jpg",
         large: "../../../puplic/assets/the-swing/hero-large.jpg",
       },
       gallery: "../../../public/assets/the-swing/gallery.jpg",
