@@ -1,11 +1,17 @@
 .painting-details{
   padding: 20px;
   display:flex;
+  height: 100%;
   
 }
 .painting-details div {
     width:50%;
-    height: auto;
+    height:100%;
+    margin: 20px;
   
+  }
+  .painting-details div .galleryImg{
+    width: 100%;
+    height: 100%;
   }
   
