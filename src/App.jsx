@@ -11,7 +11,8 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout/>}>
+        <Route path="/"  element={<Layout/>}>
+        <Route path="/" index element={<Gallery />} /> {/* Default route */}
         <Route path="Gallery" element={<Gallery />}/>
         <Route path="Slideshow" element={<Slideshow/>}/>
         <Route path="Painting/:id" element={<Painting />}/>
