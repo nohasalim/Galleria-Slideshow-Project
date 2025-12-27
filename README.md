@@ -1,8 +1,31 @@
-# React + Vite
+# 🎨 Galleria Slideshow – React Art Gallery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React application that displays an interactive gallery of paintings.  
+Users can browse artworks, open paintings in fullscreen, and view a responsive slideshow.  
+Routing is powered by **React Router v6**, and carousel animations are built using **react-slick**.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 🖼️ Gallery grid of paintings
+- ▶️ Slideshow mode using react-slick
+- 🔍 View single painting by dynamic URL (`Painting/:id`)
+- 🧭 Navigation through pages with React Router v6
+- 📱 Fully responsive layout
+- 📦 Component-based clean structure
+
+
+## 🛠️ Tech Stack
+
+| Tool / Library        | Purpose |
+|----------------------|---------|
+| React.js             | UI rendering |
+| React Router v6      | Routing & navigation |
+| Slick Carousel       | Slideshow functionality |
+| CSS                  | Styling |
+| Vite (optional)      | Dev build tool |
+
+
+
+
+
